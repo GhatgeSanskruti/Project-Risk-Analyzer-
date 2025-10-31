@@ -1,0 +1,101 @@
+ProjectID,ClarityOfObjectives,PlanningDetail,ResourceAvailability,DeadlineRealism,CommunicationFrequency,StakeholderEngagement,RiskManagementPlan,ScopeControlProcess,PredictedOutcome,PrimaryReason
+1,Somewhat Clear,Detailed,Sufficient,Ambitious,Daily,Highly Engaged,No,Yes,Failure,Execution Risk
+2,Somewhat Clear,Detailed,Sufficient,Realistic,Infrequently,Disengaged,Yes,No,Failure,Poor Communication
+3,Unclear,None,Sufficient,Realistic,Infrequently,Moderately Engaged,No,No,Failure,Scope Creep Risk
+4,Very Clear,High-Level,Barely Sufficient,Realistic,Daily,Highly Engaged,Yes,Yes,Failure,Execution Risk
+5,Somewhat Clear,Detailed,Sufficient,Unrealistic,Weekly,Moderately Engaged,Yes,No,Failure,Scope Creep Risk
+6,Very Clear,Detailed,Sufficient,Ambitious,Daily,Moderately Engaged,No,No,Success,Sufficient Execution
+7,Somewhat Clear,Detailed,Barely Sufficient,Ambitious,Weekly,Highly Engaged,No,Yes,Failure,Multiple Critical Failures
+8,Very Clear,Detailed,Insufficient,Unrealistic,Infrequently,Moderately Engaged,Yes,No,Failure,Scope Creep Risk
+9,Unclear,High-Level,Sufficient,Realistic,Weekly,Highly Engaged,Yes,Yes,Failure,Unclear Objectives
+10,Very Clear,Detailed,Barely Sufficient,Ambitious,Daily,Highly Engaged,Yes,Yes,Success,Sufficient Execution
+11,Very Clear,High-Level,Sufficient,Unrealistic,Infrequently,Disengaged,Yes,Yes,Failure,Disengaged Stakeholders
+12,Very Clear,Detailed,Sufficient,Realistic,Weekly,Disengaged,Yes,No,Failure,Disengaged Stakeholders
+13,Very Clear,Detailed,Barely Sufficient,Realistic,Infrequently,Disengaged,Yes,Yes,Failure,Poor Communication
+14,Unclear,Detailed,Insufficient,Unrealistic,Daily,Moderately Engaged,No,No,Failure,Unrealistic Deadlines
+15,Somewhat Clear,High-Level,Barely Sufficient,Realistic,Daily,Disengaged,Yes,No,Failure,Scope Creep Risk
+16,Somewhat Clear,High-Level,Sufficient,Ambitious,Infrequently,Highly Engaged,Yes,Yes,Failure,Poor Communication
+17,Very Clear,High-Level,Sufficient,Realistic,Weekly,Moderately Engaged,Yes,No,Success,Sufficient Execution
+18,Unclear,Detailed,Insufficient,Ambitious,Infrequently,Disengaged,No,No,Failure,Disengaged Stakeholders
+19,Very Clear,High-Level,Barely Sufficient,Realistic,Daily,Highly Engaged,No,No,Success,Sufficient Execution
+20,Somewhat Clear,Detailed,Barely Sufficient,Unrealistic,Daily,Disengaged,Yes,Yes,Failure,Unrealistic Deadlines
+21,Very Clear,Detailed,Sufficient,Realistic,Daily,Highly Engaged,No,Yes,Success,Strong Planning & Alignment
+22,Very Clear,Detailed,Barely Sufficient,Realistic,Infrequently,Moderately Engaged,No,No,Failure,Scope Creep Risk
+23,Very Clear,Detailed,Barely Sufficient,Ambitious,Weekly,Moderately Engaged,No,No,Success,Sufficient Execution
+24,Unclear,High-Level,Barely Sufficient,Realistic,Weekly,Moderately Engaged,Yes,Yes,Failure,Unclear Objectives
+25,Very Clear,Detailed,Insufficient,Unrealistic,Daily,Highly Engaged,No,No,Failure,Insufficient Resources
+26,Very Clear,Detailed,Sufficient,Realistic,Weekly,Disengaged,No,No,Failure,Scope Creep Risk
+27,Very Clear,Detailed,Insufficient,Ambitious,Weekly,Disengaged,Yes,Yes,Failure,Insufficient Resources
+28,Very Clear,High-Level,Sufficient,Ambitious,Daily,Disengaged,Yes,Yes,Success,Sufficient Execution
+29,Somewhat Clear,Detailed,Sufficient,Ambitious,Daily,Moderately Engaged,Yes,Yes,Failure,Execution Risk
+30,Unclear,High-Level,Sufficient,Unrealistic,Infrequently,Highly Engaged,Yes,No,Failure,Poor Communication
+31,Somewhat Clear,Detailed,Sufficient,Unrealistic,Weekly,Disengaged,No,No,Failure,Scope Creep Risk
+32,Very Clear,High-Level,Insufficient,Realistic,Infrequently,Disengaged,Yes,No,Failure,Insufficient Resources
+33,Very Clear,Detailed,Barely Sufficient,Ambitious,Daily,Moderately Engaged,No,No,Success,Sufficient Execution
+34,Very Clear,Detailed,Barely Sufficient,Realistic,Weekly,Highly Engaged,No,No,Failure,Scope Creep Risk
+35,Very Clear,Detailed,Sufficient,Realistic,Weekly,Moderately Engaged,No,Yes,Success,Strong Planning & Alignment
+36,Unclear,High-Level,Sufficient,Unrealistic,Daily,Disengaged,No,Yes,Failure,Unrealistic Deadlines
+37,Very Clear,Detailed,Sufficient,Realistic,Daily,Highly Engaged,No,No,Success,Sufficient Execution
+38,Somewhat Clear,None,Sufficient,Unrealistic,Daily,Highly Engaged,Yes,No,Failure,Poor Planning
+39,Somewhat Clear,High-Level,Sufficient,Ambitious,Infrequently,Highly Engaged,No,No,Failure,Poor Communication
+40,Somewhat Clear,High-Level,Barely Sufficient,Realistic,Weekly,Disengaged,No,Yes,Failure,Disengaged Stakeholders
+41,Very Clear,Detailed,Barely Sufficient,Realistic,Infrequently,Moderately Engaged,No,No,Failure,Scope Creep Risk
+42,Unclear,High-Level,Barely Sufficient,Ambitious,Infrequently,Highly Engaged,No,Yes,Failure,Poor Communication
+43,Unclear,Detailed,Sufficient,Realistic,Weekly,Moderately Engaged,Yes,No,Failure,Scope Creep Risk
+44,Somewhat Clear,Detailed,Sufficient,Ambitious,Daily,Highly Engaged,Yes,No,Success,Sufficient Execution
+45,Very Clear,Detailed,Sufficient,Ambitious,Daily,Highly Engaged,Yes,Yes,Success,Sufficient Execution
+46,Very Clear,None,Barely Sufficient,Ambitious,Infrequently,Highly Engaged,Yes,No,Failure,Poor Communication
+47,Somewhat Clear,Detailed,Insufficient,Unrealistic,Infrequently,Highly Engaged,Yes,No,Failure,Poor Communication
+48,Very Clear,None,Sufficient,Realistic,Weekly,Moderately Engaged,No,Yes,Success,Sufficient Execution
+49,Somewhat Clear,None,Sufficient,Realistic,Infrequently,Moderately Engaged,No,Yes,Failure,Poor Communication
+50,Very Clear,None,Sufficient,Realistic,Daily,Highly Engaged,No,No,Failure,Scope Creep Risk
+51,Somewhat Clear,None,Sufficient,Realistic,Daily,Disengaged,No,Yes,Failure,Disengaged Stakeholders
+52,Very Clear,Detailed,Insufficient,Unrealistic,Daily,Highly Engaged,Yes,No,Failure,Scope Creep Risk
+53,Somewhat Clear,High-Level,Barely Sufficient,Unrealistic,Infrequently,Disengaged,Yes,Yes,Failure,Disengaged Stakeholders
+54,Very Clear,None,Barely Sufficient,Ambitious,Weekly,Disengaged,Yes,No,Failure,Scope Creep Risk
+55,Very Clear,Detailed,Sufficient,Ambitious,Daily,Moderately Engaged,No,Yes,Failure,Execution Risk
+56,Very Clear,Detailed,Sufficient,Ambitious,Daily,Highly Engaged,No,Yes,Success,Sufficient Execution
+57,Very Clear,Detailed,Sufficient,Realistic,Daily,Disengaged,No,Yes,Success,Sufficient Execution
+58,Very Clear,Detailed,Sufficient,Ambitious,Daily,Moderately Engaged,Yes,Yes,Failure,Execution Risk
+59,Very Clear,High-Level,Insufficient,Realistic,Daily,Disengaged,Yes,Yes,Failure,Disengaged Stakeholders
+60,Very Clear,Detailed,Insufficient,Unrealistic,Weekly,Disengaged,Yes,No,Failure,Scope Creep Risk
+61,Somewhat Clear,Detailed,Sufficient,Ambitious,Weekly,Highly Engaged,No,Yes,Success,Sufficient Execution
+62,Very Clear,Detailed,Sufficient,Realistic,Infrequently,Moderately Engaged,No,No,Failure,Scope Creep Risk
+63,Unclear,High-Level,Insufficient,Realistic,Daily,Highly Engaged,No,Yes,Failure,Insufficient Resources
+64,Very Clear,High-Level,Sufficient,Realistic,Daily,Highly Engaged,Yes,No,Success,Sufficient Execution
+65,Somewhat Clear,Detailed,Barely Sufficient,Realistic,Weekly,Highly Engaged,No,No,Failure,Scope Creep Risk
+66,Somewhat Clear,Detailed,Sufficient,Realistic,Daily,Highly Engaged,No,Yes,Success,Sufficient Execution
+67,Very Clear,Detailed,Sufficient,Realistic,Weekly,Highly Engaged,Yes,Yes,Success,Strong Planning & Alignment
+68,Very Clear,High-Level,Sufficient,Realistic,Daily,Highly Engaged,Yes,Yes,Failure,Execution Risk
+69,Very Clear,High-Level,Insufficient,Realistic,Weekly,Highly Engaged,No,Yes,Failure,Insufficient Resources
+70,Very Clear,Detailed,Sufficient,Ambitious,Daily,Moderately Engaged,Yes,Yes,Success,Sufficient Execution
+71,Somewhat Clear,Detailed,Barely Sufficient,Unrealistic,Weekly,Moderately Engaged,No,Yes,Failure,Unrealistic Deadlines
+72,Very Clear,Detailed,Barely Sufficient,Ambitious,Daily,Moderately Engaged,No,No,Success,Sufficient Execution
+73,Unclear,High-Level,Insufficient,Ambitious,Daily,Disengaged,No,No,Failure,Disengaged Stakeholders
+74,Very Clear,Detailed,Sufficient,Realistic,Weekly,Disengaged,No,Yes,Success,Sufficient Execution
+75,Very Clear,Detailed,Insufficient,Realistic,Daily,Highly Engaged,Yes,No,Failure,Insufficient Resources
+76,Very Clear,Detailed,Insufficient,Ambitious,Infrequently,Disengaged,No,No,Failure,Scope Creep Risk
+77,Very Clear,Detailed,Barely Sufficient,Ambitious,Infrequently,Disengaged,No,Yes,Failure,Disengaged Stakeholders
+78,Very Clear,Detailed,Barely Sufficient,Realistic,Daily,Moderately Engaged,No,No,Failure,Scope Creep Risk
+79,Very Clear,High-Level,Sufficient,Realistic,Infrequently,Moderately Engaged,Yes,Yes,Success,Sufficient Execution
+80,Very Clear,High-Level,Insufficient,Realistic,Daily,Highly Engaged,Yes,No,Failure,Insufficient Resources
+81,Very Clear,Detailed,Insufficient,Realistic,Weekly,Highly Engaged,No,No,Failure,Scope Creep Risk
+82,Very Clear,Detailed,Sufficient,Ambitious,Daily,Highly Engaged,Yes,No,Failure,Scope Creep Risk
+83,Very Clear,High-Level,Sufficient,Realistic,Infrequently,Highly Engaged,No,No,Failure,Poor Communication
+84,Somewhat Clear,High-Level,Insufficient,Realistic,Weekly,Disengaged,Yes,Yes,Failure,Disengaged Stakeholders
+85,Very Clear,High-Level,Sufficient,Ambitious,Daily,Disengaged,No,Yes,Success,Sufficient Execution
+86,Very Clear,Detailed,Barely Sufficient,Realistic,Weekly,Disengaged,No,Yes,Success,Sufficient Execution
+87,Very Clear,High-Level,Insufficient,Realistic,Weekly,Highly Engaged,Yes,Yes,Failure,Insufficient Resources
+88,Somewhat Clear,High-Level,Insufficient,Realistic,Daily,Moderately Engaged,No,No,Failure,Insufficient Resources
+89,Somewhat Clear,None,Sufficient,Ambitious,Weekly,Highly Engaged,No,No,Failure,Poor Planning
+90,Very Clear,Detailed,Insufficient,Realistic,Infrequently,Moderately Engaged,Yes,No,Failure,Scope Creep Risk
+91,Very Clear,Detailed,Sufficient,Realistic,Infrequently,Disengaged,No,No,Failure,Poor Communication
+92,Very Clear,High-Level,Insufficient,Realistic,Infrequently,Disengaged,Yes,No,Failure,Scope Creep Risk
+93,Unclear,Detailed,Sufficient,Realistic,Weekly,Disengaged,No,No,Failure,Scope Creep Risk
+94,Very Clear,High-Level,Insufficient,Unrealistic,Daily,Disengaged,Yes,Yes,Failure,Unrealistic Deadlines
+95,Very Clear,Detailed,Barely Sufficient,Realistic,Infrequently,Highly Engaged,No,Yes,Success,Sufficient Execution
+96,Very Clear,Detailed,Barely Sufficient,Ambitious,Infrequently,Highly Engaged,Yes,No,Failure,Scope Creep Risk
+97,Somewhat Clear,Detailed,Sufficient,Realistic,Daily,Moderately Engaged,No,Yes,Success,Sufficient Execution
+98,Very Clear,High-Level,Sufficient,Ambitious,Weekly,Highly Engaged,Yes,Yes,Success,Sufficient Execution
+99,Somewhat Clear,Detailed,Barely Sufficient,Ambitious,Weekly,Disengaged,Yes,No,Failure,Disengaged Stakeholders
+100,Somewhat Clear,High-Level,Sufficient,Realistic,Daily,Disengaged,Yes,No,Failure,Scope Creep Risk
